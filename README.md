@@ -1,27 +1,22 @@
-# Math game
-
-_fun math game counter_
-
-The game have a target number from 0 to 100. You must calculate the target number using the numbers from 0 to 9, but one number you can use only once per game. After one number, you must put the operator +, -, \*.
-You have 30 seconds to solve the task. If you do it within 15 sec. you will get 2 points, if within 30s. - 1 point. More than 30 m. time is up and you are not awarded.
-After one round you have few seconds to relax, and then next round.
-Good luck :)
+# 📝 To Do List
 
 <br>
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+A simple and functional To Do List application designed to help you manage and track your daily tasks with ease.
 
-Site published at: https://github.com/MantasKukulskis/Mgame
+Site published at: https://github.com/MantasKukulskis/To-do-list
 
 Design: !by mentorė Gabija
 
 ## 🎯 Project features/goals
 
 - Github pages
-- responsive design
-- Javascript
+- ✅ Add new tasks
+- 🕒 Mark tasks as completed
+- ❌ Delete tasks
+- ✏️ Edit existing tasks
 
 ## 🧰 Getting Started
 
@@ -45,7 +40,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MantasKukulskis/Mgame.git
+   git clone https://github.com/MantasKukulskis/To-do-list.git
    ```
 2. Install NPM packages
    ```sh
