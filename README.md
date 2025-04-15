@@ -61,7 +61,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rokas: [Github](https://github.com/MantasKukulskis)
+Mantas: [Github](https://github.com/MantasKukulskis)
 
 ## ⚠️ License
 
